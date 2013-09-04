@@ -7,13 +7,6 @@
 </head>
 
 <body>
-<?php
-$Page_fullpath = $_SERVER['DOCUMENT_ROOT'] . base_path() . path_to_theme() . '/';
-$Page_tmpl_path = $Page_fullpath . 'templates/';
-$Page_img_path = base_path() . path_to_theme() . '/images';
-
-?>
-
 <div class="columnWrap cols2-728-224">
     <h1>School Visit Request</h1>
 
