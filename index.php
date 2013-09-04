@@ -3,7 +3,6 @@
 <head>
 <meta charset="utf-8">
 <title>former</title>
-<script src ="form.js"></script>
 </head>
 
 <body>
@@ -1141,6 +1140,9 @@
 
 
 </div><!-- end columnWrap -->
+
+<script src ="form.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
 </body>
 </html>
